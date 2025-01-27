@@ -1,26 +1,6 @@
 # 介绍
 - 这是一个基于rsc插件写的slimefun附属
-- 增加许多自动化的机器
-- 让原本不能自动化的物品自动化
-- 同时也非常的肝
-- 这个附属不会像海曼科技的分子重组仪那样制造一些材料就随随便便让玩家等待几个小时
-- 附属的前置有:
-  - InfinityExpansion<无尽科技>
-  - LiteXpansion<工业>
-  - FinalTECH-Changed<乱序改版>
-  - FoxyMachines<神秘科技>
-  - AlchimiaVitae<炼金术自传>
-  - FlowerPower<源之花>
-  - SlimefunWarfare<战争工艺>
-  - CrystamaeHistoria<魔法水晶编年史>
-  - TranscEndence<末地科技>
-  - Networks<网络拓展>
-  - GeneticChickengineering<鸡因工程>
-# 前置附属下载
-- 构建好的乱序改版:
-  - https://wwp.lanzoup.com/i214Y28o4cef 提取码: 9521
-- 其他附属:
-  - https://builds.guizhanss.com/
+- 增加了跟多自动化流水线的机器以及强大的装备
 # 注意
 - 禁止在未经允许的情况下转载本附属
 - 禁止发布自己修改过的附属(在经过允许的情况下可以发布但必须表明原作出处)
